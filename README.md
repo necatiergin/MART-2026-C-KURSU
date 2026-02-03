@@ -32,6 +32,5 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/4CtuVLRTRcay69fl3WGBrw) <br>
-<!---
-![kurs tanıtım görseli](https://github.com/necatiergin/KASIM-2025-C-KURSU/blob/main/c_kursu_tanitim_gorseli.png)
---->
+![kurs tanıtım görseli](https://github.com/necatiergin/MART-2026-C-KURSU/blob/main/kurs_gorseli.png)
+
