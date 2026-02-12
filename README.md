@@ -15,7 +15,7 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 ✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar<br>
 
 🚀 Bu kurs size ne kazandıracak?<br>
-Bu eğitim sonrasında: <br><br>
+Bu eğitim sonrasında: <br>
 ✔ C dilini yalnızca bilen değil, profesyonel seviyede kullanan bir geliştirici olursunuz.<br>
 ✔ Memory yönetimi ve low-level programlama konularında birçok geliştiricinin zorlandığı alanlarda güçlü yetkinlik kazanırsınız.<br>
 ✔ Performans kritik ve sistem seviyesinde yazılım geliştirebilecek teknik altyapıya sahip olursunuz.<br>
