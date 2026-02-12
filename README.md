@@ -5,7 +5,7 @@ sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir. Eğitim sürec
 Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanmaları hedeflenmektedir. <br>
 🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlayacaktır.<br>
 
-**Bu eğitim özellikle aşağıdaki katılımcılar için tasarlanmıştır:**
+**🚀Bu eğitim özellikle aşağıdaki katılımcılar için tasarlanmıştır:**
 
 ✅ Programlamaya C ile başlayarak güçlü bir mühendislik temeli oluşturmak isteyenler<br>
 ✅ İş yerinde C / C++ kullanan veya kullanacak yazılım mühendisleri<br>
@@ -13,6 +13,16 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 ✅ Bilgisayar, yazılım, elektronik ve mekatronik mühendisliği öğrencileri<br>
 ✅ C++ öğrenmeden önce sağlam bir altyapı oluşturmak isteyenler<br>
 ✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar<br>
+
+🚀 Bu kurs size ne kazandıracak?
+Bu eğitim sonrasında: <br><br>
+
+✔ C dilini yalnızca bilen değil, profesyonel seviyede kullanan bir geliştirici olursunuz.<br>
+✔ Memory yönetimi ve low-level programlama konularında birçok geliştiricinin zorlandığı alanlarda güçlü yetkinlik kazanırsınız.<br>
+✔ Performans kritik ve sistem seviyesinde yazılım geliştirebilecek teknik altyapıya sahip olursunuz.<br>
+✔ Teknik mülakatlarda öne çıkmanızı sağlayacak derinlikte bilgi edinirsiniz.<br>
+✔ C++ ve diğer sistem programlama alanlarına geçiş için sağlam bir temel oluşturursunuz.<br>
+✔ Gerçek projelerde kullanılabilecek mühendislik yaklaşımı geliştirirsiniz.<br>
 
 **🧩 Kursa İlişkin Bilgiler**
 
