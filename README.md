@@ -7,12 +7,12 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 
 **Bu eğitim özellikle aşağıdaki katılımcılar için tasarlanmıştır:**
 
-✅ Programlamaya C ile başlayarak güçlü bir mühendislik temeli oluşturmak isteyenler
-✅ İş yerinde C / C++ kullanan veya kullanacak yazılım mühendisleri
-✅ Gömülü sistemler, sistem programlama ve düşük seviyeli yazılım alanına yönelmek isteyenler
-✅ Bilgisayar, yazılım, elektronik ve mekatronik mühendisliği öğrencileri
-✅ C++ öğrenmeden önce sağlam bir altyapı oluşturmak isteyenler
-✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar
+✅ Programlamaya C ile başlayarak güçlü bir mühendislik temeli oluşturmak isteyenler<br>
+✅ İş yerinde C / C++ kullanan veya kullanacak yazılım mühendisleri<br>
+✅ Gömülü sistemler, sistem programlama ve düşük seviyeli yazılım alanına yönelmek isteyenler<br>
+✅ Bilgisayar, yazılım, elektronik ve mekatronik mühendisliği öğrencileri<br>
+✅ C++ öğrenmeden önce sağlam bir altyapı oluşturmak isteyenler<br>
+✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar<br>
 
 **🧩 Kursa İlişkin Bilgiler**
 
