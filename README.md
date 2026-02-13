@@ -1,4 +1,4 @@
-🎯 Bu kurs katılımcılara C programlama dilini öğretirken aynı zamanda katılımcılara bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan 
+🎯 Bu eğitim katılımcılara C programlama dilini öğretirken aynı zamanda katılımcılara bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan 
 sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir. Eğitim süreci yalnızca dilin sözdizimine odaklanmakla sınırlı değildir.<br>
 📌 C dilinin standart kütüphanesi tüm detaylarıyla ele alınmaktadır;<br>
 📌 Veri yapıları, algoritmalar, kod kalitesi, birim testleri gibi yazılım mühendisliğinin temel taşları da kapsamlı biçimde işlenmektedir.<br>
@@ -14,7 +14,7 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 ✅ C++ öğrenmeden önce sağlam bir altyapı oluşturmak isteyenler<br>
 ✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar<br>
 
-🚀 Bu kurs size ne kazandıracak?<br>
+🚀 Bu eğitim size ne kazandıracak?<br>
 Bu eğitim sonrasında: <br>
 ✔ C dilini yalnızca bilen değil, profesyonel seviyede kullanan bir geliştirici olursunuz.<br>
 ✔ Memory yönetimi ve low-level programlama konularında birçok geliştiricinin zorlandığı alanlarda güçlü yetkinlik kazanırsınız.<br>
@@ -23,15 +23,15 @@ Bu eğitim sonrasında: <br>
 ✔ C++ ve diğer sistem programlama alanlarına geçiş için sağlam bir temel oluşturursunuz.<br>
 ✔ Gerçek projelerde kullanılabilecek mühendislik yaklaşımı geliştirirsiniz.<br>
 
-**🧩 Kursa İlişkin Bilgiler**
+**🧩 Eğitime İlişkin Bilgiler**
 
 📅 Başlangıç Tarihi: **7 Mart 2026 Cumartesi**<br>
 🕒 **Ders Günleri ve Saatleri: Cumartesi ve Pazar günleri, saat 09:00 – 13:00 (Haftada 8 saat)<br>**
 ⏳ **Toplam Süre: 180 saat<br>**
 
 💻 Dersler canlı ve online olarak Zoom platformu üzerinden yapılmaktadır.<br>
-⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
-⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, kurs sistemimiz üzerinden izlenebilir.
+⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca bu eğitim için oluşturuylan Telegram grubu üzerinden de iletişim kurabilirler.<br>
+⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, eğitim sistemimiz üzerinden izlenebilir.
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br>
