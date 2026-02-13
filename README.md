@@ -1,5 +1,4 @@
-🎯 Bu eğitim katılımcılara C programlama dilini öğretirken aynı zamanda katılımcılara bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan 
-sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir. Eğitim süreci yalnızca dilin sözdizimine odaklanmakla sınırlı değildir.<br>
+🎯 Bu eğitim katılımcılara C programlama dilini öğretirken aynı zamanda katılımcılara bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir. Eğitim süreci yalnızca dilin sözdizimine odaklanmakla sınırlı değildir.<br>
 📌 C dilinin standart kütüphanesi tüm detaylarıyla ele alınmaktadır;<br>
 📌 Veri yapıları, algoritmalar, kod kalitesi, birim testleri gibi yazılım mühendisliğinin temel taşları da kapsamlı biçimde işlenmektedir.<br>
 Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanmaları hedeflenmektedir. <br>
@@ -14,7 +13,7 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 ✅ C++ öğrenmeden önce sağlam bir altyapı oluşturmak isteyenler<br>
 ✅ Mevcut C bilgisini profesyonel seviyeye taşımayı hedefleyen yazılımcılar<br>
 
-🚀 Bu eğitim size ne kazandıracak?<br>
+🚀 **Bu eğitim size ne kazandıracak?<br>**
 Bu eğitim sonrasında: <br>
 ✔ C dilini yalnızca bilen değil, profesyonel seviyede kullanan bir geliştirici olursunuz.<br>
 ✔ Memory yönetimi ve low-level programlama konularında birçok geliştiricinin zorlandığı alanlarda güçlü yetkinlik kazanırsınız.<br>
